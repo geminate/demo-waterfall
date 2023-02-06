@@ -288,6 +288,11 @@ img {
   display: flex;
   flex-wrap: wrap;
 
+  &:after {
+    content: '';
+    flex-grow: 999999999;
+  }
+
   div {
     flex: 1 0 200px;
     position: relative;
