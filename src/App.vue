@@ -209,7 +209,6 @@ img {
     margin-bottom: 4px;
 
     img {
-      object-fit: cover;
       width: 100%;
     }
   }
@@ -229,7 +228,6 @@ img {
     margin-bottom: 4px;
 
     img {
-      object-fit: cover;
       width: 100%;
     }
   }
